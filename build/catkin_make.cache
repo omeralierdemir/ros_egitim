@@ -1,0 +1,2 @@
+tosbaga
+-DCATKIN_DEVEL_PREFIX=/home/efl4tun/kablunbaga/devel -DCMAKE_INSTALL_PREFIX=/home/efl4tun/kablunbaga/install -G Unix Makefiles

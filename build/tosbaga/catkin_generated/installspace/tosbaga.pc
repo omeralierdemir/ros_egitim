@@ -1,0 +1,8 @@
+prefix=/home/efl4tun/kablunbaga/install
+
+Name: tosbaga
+Description: Description of tosbaga
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/efl4tun/kablunbaga/install/lib 
+Requires: 
